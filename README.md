@@ -1,3 +1,3 @@
 # inverse-double-image-slider
 
-learnt from Traversy Media youtube chaanel
+learnt from Traversy Media youtube channel
